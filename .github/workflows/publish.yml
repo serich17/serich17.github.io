@@ -18,7 +18,7 @@ jobs:
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           # To install LaTeX to build PDF book 
-          tinytex: true 
+          tinytex: false
       
       # Comment out the below section if you are not using python
       - name: Install Python and Dependencies
