@@ -1,86 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 2025 Resume
 ---
 # Sam Richardson
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="samedr16@gmail.com">samedr16@gmail.com</a>
+| <a href="linkedin.com/in/sam-richardson23">LinkedIn</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2020 - July 2026`
+__Bachelor of Science in Computer Science__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Minor: Spanish
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Certificate in Computer Programming
 
 
+## Skills
 
-## Awards
+- Python, JavaScript, MySQL, GitHub (Proficient)
 
-`2012`
-President, *Royal Society*, London, UK
+- PHP, CSS, HTML, SKlearn (Intermediate)
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- C++, C#, Java, TensorFlow, AWS (Beginner)
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+#### Hackathon
+- Finished individual assignment in team of 4 developers to make a functional AI chat inside app by retrieving a Gemini API and incorporating it inside chat in Java
 
-- Warden
-- Minted coins
+#### Eagle Scout
+- Organized and executed a service project cleaning an overgrown cemetery of about 20 participants by accessing tools needed and communicating with participants and dividing up jobs.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+
+
+## Work Experience
+
+#### BGA Board Game Developer
+*Circle J Games*
+- Identified user-interface needs, including 3 methods to move screen around comfortably while simulating a table, and worked on programming, debugging, adding features to board game Falconry in BGA framewor, and deployed game to BGA server
+- Programmed game rule on client and server side by using a game state machine, validating state and actions in server with PHP, updating database for game, and sending a response to client
+
+#### Leather Cutter
+*Fern Thatcher Company*
+- Focused on detail and quality in leather hides amidst repetitive tasks working safely, quickly and efficiently in 8 hour periods cutting more than 1500 leather hat bands using leather dies and a machine to cut
+
+#### Farm Hand
+*For various people*
+- Adapted quickly to diverse tasks and attained new skills to focus on detail and follow instructions, after rebuilding 2 car transmissions and completing a variety of other tasks
+
+
+## Volunteer Experience
+*The Church of Jesus Christ of Latter-Day Saints*
+#### Full-time Volunteer representative
+- Planned and taught weekly training meetings to other volunteers to increase efficiency in volunteer work, share goals, and support each other
+- Obtained fluency in religious and cultural Spanish in 6 months
 
 
 
