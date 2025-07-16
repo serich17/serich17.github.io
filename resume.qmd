@@ -32,9 +32,11 @@ __Bachelor of Science in Computer Science__
 ## Projects
 
 #### Hackathon
+
 - Finished individual assignment in team of 4 developers to make a functional AI chat inside app by retrieving a Gemini API and incorporating it inside chat in Java
 
 #### Eagle Scout
+
 - Organized and executed a service project cleaning an overgrown cemetery of about 20 participants by accessing tools needed and communicating with participants and dividing up jobs.
 
 
@@ -43,22 +45,28 @@ __Bachelor of Science in Computer Science__
 
 #### BGA Board Game Developer
 *Circle J Games*
+
 - Identified user-interface needs, including 3 methods to move screen around comfortably while simulating a table, and worked on programming, debugging, adding features to board game Falconry in BGA framewor, and deployed game to BGA server
+
 - Programmed game rule on client and server side by using a game state machine, validating state and actions in server with PHP, updating database for game, and sending a response to client
 
 #### Leather Cutter
 *Fern Thatcher Company*
+
 - Focused on detail and quality in leather hides amidst repetitive tasks working safely, quickly and efficiently in 8 hour periods cutting more than 1500 leather hat bands using leather dies and a machine to cut
 
 #### Farm Hand
 *For various people*
+
 - Adapted quickly to diverse tasks and attained new skills to focus on detail and follow instructions, after rebuilding 2 car transmissions and completing a variety of other tasks
 
 
 ## Volunteer Experience
 *The Church of Jesus Christ of Latter-Day Saints*
 #### Full-time Volunteer representative
+
 - Planned and taught weekly training meetings to other volunteers to increase efficiency in volunteer work, share goals, and support each other
+
 - Obtained fluency in religious and cultural Spanish in 6 months
 
 
