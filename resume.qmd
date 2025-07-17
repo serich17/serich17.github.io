@@ -5,8 +5,7 @@ title: 2025 Resume
 # Sam Richardson
 
 <div id="webaddress">
-<a href="samedr16@gmail.com">samedr16@gmail.com</a>
-| <a href="linkedin.com/in/sam-richardson23">LinkedIn</a>
+<a href="linkedin.com/in/sam-richardson23">LinkedIn</a>
 </div>
 
 
